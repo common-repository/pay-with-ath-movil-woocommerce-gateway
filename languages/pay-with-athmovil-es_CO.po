@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: pay-with-ath-movil\n"
+"Language: es\n"
+
+#: 
+msgid "ATH Movil requires WooCommerce to be installed and active. You can download %s here."
+msgstr "ATH Móvil require que WooCommerce esté instalado y activado. Puedes descargar %s aquí."
+
+#: 
+msgid "A payment gateway for ATH Movil"
+msgstr "Método de pago para ATH Móvil"
+
+#: 
+msgid "Enable/Disable"
+msgstr "Habilitar/Inhabilitar"
+
+#: 
+msgid "Enable ATH Movil Payments"
+msgstr "Habilitar pagos por ATH Móvil"
+
+#: 
+msgid "Title"
+msgstr "Título"
+
+#: 
+msgid "This controls the title for the payment method the customer sees during checkout."
+msgstr "Esto controla el título del método de pago que el cliente ve durante el pago."
+
+#: 
+msgid "Description"
+msgstr "Descripción"
+
+#: 
+msgid "Place the payment gateway in test mode."
+msgstr "Colocar el método de pago en modo de prueba."
+
+#: 
+msgid "Pay with your ATH card."
+msgstr "Pague con su tarjeta ATH."
+
+#: 
+msgid "Test mode"
+msgstr "Modo de prueba"
+
+#: 
+msgid "Enable Test Mode"
+msgstr "Habilitar modo de prueba"
+
+#: 
+msgid "Public token"
+msgstr "Token público"
+
+#: 
+msgid "Private token"
+msgstr "Token privado"
+
+#: 
+msgid "To find your public and private tokens open the ATH Movil app and go to <strong>Settings -> API Keys</strong>."
+msgstr "Para encontrar si token público y privado, abra la aplicación de ATH Móvil y vaya a <strong>Settings -> API Keys</strong>."
+
+#: 
+msgid "Button theme"
+msgstr "Tema del botón"
+
+#: 
+msgid "Button display theme."
+msgstr "Tema de visualización del botón."
+
+#: 
+msgid "You must provide a gateway title"
+msgstr "Tiene que proveer un título para el método de pago"
+
+#: 
+msgid "You must provide a Public token"
+msgstr "Tiene que proveer un token público"
+
+#: 
+msgid "You must provide a Private token"
+msgstr "Tiene que proveer un token privado"
+
+#: 
+msgid "Awaiting"
+msgstr "Esperando"
+
+#: 
+msgid "payment"
+msgstr "el pago"
+

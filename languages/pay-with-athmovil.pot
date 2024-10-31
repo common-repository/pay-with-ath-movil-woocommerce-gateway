@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: pay-with-ath-movil\n"
+"Language: es\n"
+
+#: 
+msgid "ATH Movil requires WooCommerce to be installed and active. You can download %s here."
+msgstr ""
+
+#: 
+msgid "A payment gateway for ATH Movil"
+msgstr ""
+
+#: 
+msgid "Enable/Disable"
+msgstr ""
+
+#: 
+msgid "Enable ATH Movil Payments"
+msgstr ""
+
+#: 
+msgid "Title"
+msgstr ""
+
+#: 
+msgid "This controls the title for the payment method the customer sees during checkout."
+msgstr ""
+
+#: 
+msgid "Description"
+msgstr ""
+
+#: 
+msgid "Place the payment gateway in test mode."
+msgstr ""
+
+#: 
+msgid "Pay with your ATH card."
+msgstr ""
+
+#: 
+msgid "Test mode"
+msgstr ""
+
+#: 
+msgid "Enable Test Mode"
+msgstr ""
+
+#: 
+msgid "Public token"
+msgstr ""
+
+#: 
+msgid "Private token"
+msgstr ""
+
+#: 
+msgid "To find your public and private tokens open the ATH Movil app and go to <strong>Settings -> API Keys</strong>."
+msgstr ""
+
+#: 
+msgid "Button theme"
+msgstr ""
+
+#: 
+msgid "Button display theme."
+msgstr ""
+
+#: 
+msgid "You must provide a gateway title"
+msgstr ""
+
+#: 
+msgid "You must provide a Public token"
+msgstr ""
+
+#: 
+msgid "You must provide a Private token"
+msgstr ""
+
+#: 
+msgid "Awaiting"
+msgstr ""
+
+#: 
+msgid "payment"
+msgstr ""
+
